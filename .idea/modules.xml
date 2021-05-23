@@ -5,6 +5,11 @@
       <module fileurl="file://$PROJECT_DIR$/gmall.iml" filepath="$PROJECT_DIR$/gmall.iml" />
       <module fileurl="file://$PROJECT_DIR$/gmall-admin/gmall-admin.iml" filepath="$PROJECT_DIR$/gmall-admin/gmall-admin.iml" />
       <module fileurl="file://$PROJECT_DIR$/gmall-common/gmall-common.iml" filepath="$PROJECT_DIR$/gmall-common/gmall-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mall-oms/mall-oms.iml" filepath="$PROJECT_DIR$/mall-oms/mall-oms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mall-pms/mall-pms.iml" filepath="$PROJECT_DIR$/mall-pms/mall-pms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mall-sms/mall-sms.iml" filepath="$PROJECT_DIR$/mall-sms/mall-sms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mall-ums/mall-ums.iml" filepath="$PROJECT_DIR$/mall-ums/mall-ums.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mall-wms/mall-wms.iml" filepath="$PROJECT_DIR$/mall-wms/mall-wms.iml" />
     </modules>
   </component>
 </project>

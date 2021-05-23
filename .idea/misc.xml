@@ -5,6 +5,11 @@
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/gmall-admin/pom.xml" />
+        <option value="$PROJECT_DIR$/mall-pms/pom.xml" />
+        <option value="$PROJECT_DIR$/mall-ums/pom.xml" />
+        <option value="$PROJECT_DIR$/mall-oms/pom.xml" />
+        <option value="$PROJECT_DIR$/mall-sms/pom.xml" />
+        <option value="$PROJECT_DIR$/mall-wms/pom.xml" />
       </list>
     </option>
   </component>
